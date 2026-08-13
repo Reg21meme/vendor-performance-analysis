@@ -1,0 +1,16 @@
+# data
+data/raw/*.csv
+data/*.db
+data/*.sqlite
+
+# logs
+logs/
+*.log
+
+# jupyter
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+.env
